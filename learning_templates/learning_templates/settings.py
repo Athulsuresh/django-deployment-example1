@@ -26,7 +26,7 @@ SECRET_KEY = 'vd7y^(*3l$a4^j)+1sp7tz=f8l7z)y#iw$x8oe)7vh_g1x_hh4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['athulsuresh.pythonanywhere.com']
 
 
 # Application definition
